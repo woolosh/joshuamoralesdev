@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available here on [Github](https://github.com/woolosh)
 
-- 📫 How to reach me **joshuapmorales@gmail.com**
+- 📫 Reach me at **joshuapmorales@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joshua-morales-software-engineer/](https://www.linkedin.com/in/joshua-morales-software-engineer/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/joshua-morales-software-engineer/)
 
-- ⚡ Fun fact **I was in a band once, signed to Universal Records; and it lasted one year.**
+- ⚡ Fun fact: **I was in a band once, signed to Universal Records; and it lasted one year.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
