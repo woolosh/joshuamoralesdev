@@ -14,7 +14,7 @@
 - 😁 Connect with me on
 <a href="https://www.linkedin.com/in/joshua-morales-software-engineer/" target="_blank">LinkedIn</a>
 
-- ⚡ Fun fact: **I was in a band once, signed to Universal Records; and it lasted one year.**
+- ⚡ Fun fact: **I was in a band once, signed to Universal Records. But it didn't last very long.**
 
 
 
