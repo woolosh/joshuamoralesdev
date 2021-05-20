@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available here on [Github](https://github.com/woolosh)
 
-- 📫 Reach me at **joshuapmorales@gmail.com**
+- 📫 Reach me at joshuapmorales@gmail.com
 
 - 😁 Connect with me on
 <a href="https://www.linkedin.com/in/joshua-morales-software-engineer/" target="_blank">LinkedIn</a>
