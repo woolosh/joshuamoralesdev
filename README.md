@@ -11,7 +11,8 @@
 
 - 📫 Reach me at **joshuapmorales@gmail.com**
 
-- 😁 Connect with me on <a href="https://www.linkedin.com/in/joshua-morales-software-engineer/" target="_blank">LinkedIn</a>
+- 😁 Connect with me on
+<a href="https://www.linkedin.com/in/joshua-morales-software-engineer/" target="_blank">LinkedIn</a>
 
 - ⚡ Fun fact: **I was in a band once, signed to Universal Records; and it lasted one year.**
 
