@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A Happy Learner</h3>
 
-- 🔭 I’m currently working on **advanced Rails, JavaScript, and React projects**
+- 🔭 I’m currently working on **JavaScript and React projects**
 
-- 🌱 I’m currently learning **so much! (Rails, React, ...)**
+- 🌱 I’m currently learning **more about HTML and CSS**
 
-- 🤝 I’m looking for help with **Angular, C#, working in "the cloud", data analytics**
+- 🤝 I’m looking for help with **C#, Java, Python, working in "the cloud", data analytics**
 
 - 👨‍💻 All of my projects are available here on [Github](https://github.com/woolosh)
 
 - 📫 Reach me at joshuapmorales@gmail.com
 
 - 😁 Connect with me on
-<a href="https://www.linkedin.com/in/joshua-morales-software-engineer/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/morales-joshua/" target="_blank">LinkedIn</a>
 
 - ⚡ Fun fact: **I was in a band once, signed to Universal Records. But it didn't last very long.**
 
